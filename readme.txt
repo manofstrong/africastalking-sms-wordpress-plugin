@@ -3,10 +3,10 @@ Contributors: manofstrong
 Donate link: https://www.nerdyclues.com/
 License: MIT
 License URI: https://opensource.org/licenses/MIT
-Tags: Africa’s Talking, AT, SMS, Bulk SMS API
+Tags: Africa’s Talking, AT, SMS, Bulk SMS API, AfricasTalking, Africas Talking
 Requires at least: 5.2
-Tested up to: 5.3
-Stable tag: 1.0.0
+Tested up to: 6.5
+Stable tag: 1.0.1
 Requires PHP: 5.6.20
 
 Send SMS from your Wordpress Website Dashboard using the Africa's Talking Bulk SMS API.
