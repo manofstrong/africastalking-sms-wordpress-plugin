@@ -3,7 +3,7 @@
  Plugin Name: AT SMS Plugin
  Plugin URI: http://www.github.com/manofstrongexample.com/plugins/
  Description: A Wordpress Plugin for Africa's Talking API. Send SMS from your Wordpress Website Dashboard using the Africa's Talking Bulk SMS API.
- Version: 1.0.0
+ Version: 1.0.1
  Author: ManofStrong
  Author URI: http://www.nerdyclues.com
  Text Domain: AT-SMS-Plugin
