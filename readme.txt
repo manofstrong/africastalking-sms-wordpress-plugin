@@ -3,7 +3,7 @@ Contributors: manofstrong
 Donate link: https://www.nerdyclues.com/
 License: MIT
 License URI: https://opensource.org/licenses/MIT
-Tags: Africa’s Talking, AT, SMS, Bulk SMS API, AfricasTalking, Africas Talking
+Tags: Africa’s Talking, AT, Africas Talking, Bulk SMS API, AfricasTalking, 
 Requires at least: 5.2
 Tested up to: 6.5
 Stable tag: 1.0.1
